@@ -1,4 +1,5 @@
-name: Update Jira on PR Merge
+name: Jira Integration
+
 on:
   pull_request:
     types: [closed]
